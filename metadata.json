@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Trivia game",
+  "description": "A dynamic trivia game where you face off against an AI host with a personality of your choice. The host uses the Gemini API to generate up-to-date questions, speak to you, and listen to your answers in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
